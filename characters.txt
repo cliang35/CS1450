@@ -1,0 +1,12 @@
+11
+h Superman
+m Sulley
+v Kylo Ren
+d R2-D2
+v Lex Luthor
+m Mike Wazowski
+h Flash
+v Darth Vader
+d BB-8
+h Mr. Incredible
+m Godzilla

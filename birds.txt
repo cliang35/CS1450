@@ -1,0 +1,8 @@
+7
+p Emperor 5 7 0
+o Oliver 43 1 0
+d Dewey 8 3 4000
+h Blue 0 0 500
+l Larry 0 2 5000
+p Skipper 5 22 0
+s Cruiser 1 0 500

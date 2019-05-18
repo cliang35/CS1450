@@ -1,0 +1,7 @@
+9
+1 8172 BNSF 40 Denver
+2 6242 CSX 130 Chicago
+4 9107 BSNF 100 Texas
+5 3303 CSX 30 Cincinnati
+6 2227 BNSF 60 Denver
+9 7029 CSX 120 Baltimore
